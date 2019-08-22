@@ -13,11 +13,11 @@ Application interface
 
 Structure file example
 
-![alt text](https://github.com/eranns/NaiveBayesClassifier-Studies/tree/master/examples/structure_example.png)
+![alt text](https://github.com/eranns/NaiveBayesClassifier-Studies/blob/master/examples/structure_example.png)
 
 Trainset example 
 
-![alt text](https://github.com/eranns/NaiveBayesClassifier-Studies/tree/master/examples/train_example.png)
+![alt text](https://github.com/eranns/NaiveBayesClassifier-Studies/blob/master/examples/train_example.png)
 
 
 
