@@ -1,8 +1,7 @@
 # NaiveBayesClassifier-Studies
 
-Assignment in Data Science and Buisness Inteliigence.
 
-A Classifier based on Naive Bayes method.
+A Classifier based on Naive Bayes.
 Inputs : Train set , Structure file - lists the attributes of each feature in the dataset and Test set
 Output : The calculated classification by using naive bayes
 
